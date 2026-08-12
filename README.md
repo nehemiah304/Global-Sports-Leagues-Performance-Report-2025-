@@ -5,7 +5,8 @@ Analyzes global sports leagues and teams across football, basketball, cricket, a
 <img width="1858" height="798" alt="Sports Leagues Dashboard" src="https://github.com/user-attachments/assets/c4d637fb-ac44-455c-964c-6064d92f94c4" />
 
 
-## This project analyzes sports leagues and teams’ performance data, focusing on average salaries, total revenues, viewership, and country-wise performance across multiple sports such as football, basketball, cricket, and American football. 
+This project analyzes sports leagues and teams’ performance data, focusing on average salaries, total revenues, viewership, and country-wise performance across multiple sports such as football, basketball, cricket, and American football. 
+
 The goal is to identify top-performing leagues, teams, and sports categories, understand financial and popularity trends, and uncover insights that highlight the economic impact and global reach of major sports organizations.
 
 ## Problem Statement
