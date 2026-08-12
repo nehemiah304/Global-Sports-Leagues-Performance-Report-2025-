@@ -5,10 +5,10 @@ Analyzes global sports leagues and teams across football, basketball, cricket, a
 <img width="1858" height="798" alt="Sports Leagues Dashboard" src="https://github.com/user-attachments/assets/c4d637fb-ac44-455c-964c-6064d92f94c4" />
 
 
-This project analyzes sports leagues and teams’ performance data, focusing on average salaries, total revenues, viewership, and country-wise performance across multiple sports such as football, basketball, cricket, and American football. 
+## This project analyzes sports leagues and teams’ performance data, focusing on average salaries, total revenues, viewership, and country-wise performance across multiple sports such as football, basketball, cricket, and American football. 
 The goal is to identify top-performing leagues, teams, and sports categories, understand financial and popularity trends, and uncover insights that highlight the economic impact and global reach of major sports organizations.
 
-Problem Statement
+## Problem Statement
 
 Sports organizations face challenges in understanding:
 
@@ -26,9 +26,9 @@ Sports organizations face challenges in understanding:
 
 This analysis aims to uncover insights that can help improve league management, team investment strategies, and global audience engagement for sustained sports industry growth.
 
-Objectives
+## Objectives
 
-The main objectives include:
+### The main objectives include:
 
 • League Performance: Analyze overall revenue and viewership across major sports leagues.
 
@@ -46,8 +46,8 @@ The main objectives include:
 
 
 
-Dataset Overview
-Key Fields:
+## Dataset Overview
+### Key Fields:
 
 • Team Name: Name of the sports team analyzed for revenue and salary performance.
 
@@ -70,7 +70,7 @@ Key Fields:
 
 • Performance Category: Classification based on metrics such as high revenue, high salary, or high viewership.
 
-Data Preparation and Cleaning
+## Data Preparation and Cleaning
 
 •	Removed duplicates and handled missing values.
 
@@ -82,7 +82,7 @@ Data Preparation and Cleaning
 
 
 
-Analysis and Visualizations
+## Analysis and Visualizations
 
 • Bar/Column Charts: Compare total revenue and average salaries across leagues, sports, and countries.
 
@@ -98,7 +98,7 @@ Analysis and Visualizations
 
 
 
-Key Insights
+## Key Insights
 
 • Top Sport: Football generated the highest total revenue, outperforming Basketball, Cricket, and American Football.
 
@@ -115,7 +115,7 @@ Key Insights
 • Revenue Distribution: Football dominated the revenue share, while Basketball and Cricket contributed significantly but at lower scales.
 
 
-Recommendations
+## Recommendations
 
 • Promote Top Leagues: Strengthen partnerships and sponsorship deals with high-revenue leagues like the Premier League to maximize visibility and profitability.
 
@@ -136,7 +136,7 @@ Recommendations
 
 
 
-Conclusion
+## Conclusion
 The analysis provides a comprehensive overview of global sports leagues and team performance. 
 
 It identifies Football as the highest-earning sport, with the Premier League leading in total revenue and FC Barcelona ranking as the top-performing team
@@ -146,7 +146,7 @@ The United States and United Kingdom emerged as dominant contributors to sports 
 These insights can guide sports organizations in strategic investment, audience expansion, and revenue optimization, ensuring continued growth and competitiveness across international sports markets.
 
 
-Tools & Technologies
+## Tools & Technologies
 
 •	Excel: Data cleaning, pivot analysis, chart creation, and dashboard visualization.
 
